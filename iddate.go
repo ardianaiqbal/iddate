@@ -1,3 +1,5 @@
+// Package iddate provides utilities for formatting dates in Indonesian.
+// It allows for easy translation of day and month names from standard time.Time objects.
 package iddate
 
 import (
